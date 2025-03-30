@@ -5,7 +5,7 @@
 - C++/Python
 - vscode/PyCharm
 #### GPU
-4060Ti 16GB
+- RTX 4060Ti 16GB
 
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

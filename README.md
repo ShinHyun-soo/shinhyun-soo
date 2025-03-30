@@ -5,7 +5,7 @@
 - C++/Python
 - vscode/PyCharm
 #### GPU
-- RTX 4060Ti 16GB
+- RTX 4060Ti 16GB [My GPU is being shared on gcube](htps://gcube.ai/en/index)
 
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

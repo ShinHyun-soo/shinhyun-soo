@@ -1,10 +1,4 @@
-#### Interests
-- Visual Intelligence
-#### OS/Skill/IDE
-- Windows 11, Ubuntu 20.04
-- C++/Python
-- vscode/PyCharm
-
+.
 
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

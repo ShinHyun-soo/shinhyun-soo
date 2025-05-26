@@ -1,4 +1,6 @@
-.
+Research Interest 
+- Conditional Image Generation
+- Image-Text Alignment
 
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

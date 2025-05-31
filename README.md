@@ -1,4 +1,4 @@
-Interest 
+I’m currently studying ...
 - Conditional Image Generation
 - Text-Image Alignment
 

@@ -1,4 +1,4 @@
-Research Interest 
+Interest 
 - Conditional Image Generation
 - Text-Image Alignment
 

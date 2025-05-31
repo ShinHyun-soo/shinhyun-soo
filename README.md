@@ -1,6 +1,7 @@
 I’m currently studying ...
-- Conditional Image Generation
 - Text-Image Alignment
+- Conditional Image Generation
+
 
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

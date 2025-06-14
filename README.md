@@ -1,4 +1,4 @@
-[Sites](https://shinhyun-soo.github.io)
+[Personal Website](https://shinhyun-soo.github.io)
 <!--
 **ShinHyun-soo/shinhyun-soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

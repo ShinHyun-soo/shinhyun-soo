@@ -40,7 +40,7 @@
 | :---: | :--- | :--- |
 | **2026** | **Encouragement Prize** | Deepfake Detection Challenge, Hecto Co., Ltd. (4/458, Top 0.9%) |
 | **2025** | **Sponsorship Prize** | Generated Text Distinguish Challenge, DEEPNOID Inc. (12/271, Top 4.4%) |
-| **2025** | **Excellence Prize** | Medical AI Challenge, KU Medicine. (2/266, Top 0.8%)|
+| **2024** | **Excellence Prize** | Medical AI Challenge, KU Medicine. (2/266, Top 0.8%)|
 
 <br>
 

@@ -1,3 +1,5 @@
+![GPU](https://img.shields.io/badge/NVIDIA-RTX%204060%20Ti%2016GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 <!-- <h1 align="center">Hi there, I'm Hyunsoo Shin 👋</h1>
 <h3 align="center">🧬 AI Researcher | 🎓 Master's Student @ Hansung Univ.</h3>
 

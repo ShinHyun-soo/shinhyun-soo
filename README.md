@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hyunsoo Shin 👋</h1>
+<!-- <h1 align="center">Hi there, I'm Hyunsoo Shin 👋</h1>
 <h3 align="center">🧬 AI Researcher | 🎓 Master's Student @ Hansung Univ.</h3>
 
 <br>
@@ -47,4 +47,4 @@
 
 ## 📫 Contact
 * 📧 **Email:** `hs.shin@hansung.ac.kr`
-* 🔗 [**LinkedIn:**](https://www.linkedin.com/in/hyunsoo-shin-7412b7253/)
+* 🔗 [**LinkedIn:**](https://www.linkedin.com/in/hyunsoo-shin-7412b7253/) -->
